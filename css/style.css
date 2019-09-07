@@ -1,0 +1,58 @@
+
+.logo{
+	min-height: 100px;
+	background-color:lightblue;
+	text-align:left;
+}
+
+.wrapper{
+   overflow: hidden; 
+
+}
+
+.leftbar{
+	min-height: 450px;
+	background-color: green;
+	text-align:center;
+	float: left;
+	width: 20%;
+}
+.wrapper1{
+   overflow: ;
+   }
+   .Header{
+   	background-color: red;
+   	min-height: 150px;
+   	text-align: center;
+
+
+
+   }
+   .Body_area{
+   	background-color: blue;
+   	min-height: 300px;
+   	text-align: center;
+   
+
+   }
+
+
+
+   /*
+.rightbar{
+	min-height: 450px;
+	background-color: red;
+	text-align:center;
+	float: right;
+	width: 60%;
+
+*/
+
+
+.footer{
+	min-height: 50px;
+	background-color: lightblue;
+	text-align:center;
+	clear: both;
+
+}
